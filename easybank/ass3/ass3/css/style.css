@@ -1,0 +1,221 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+@font-face{
+    font-family: my-fonts;
+    src:url('../fonts/PublicSans-Regular.otf')
+}
+@font-face{
+    font-family: fonts;
+    src:url('../fonts/PublicSans-Thin.otf')
+}
+
+.container{
+width:100%;
+
+}
+.about{
+    text-transform: capitalize;
+    text-decoration: none;
+    margin-left: 20px;
+color:#9597A5;
+}
+.request{
+  padding:10px 40px;
+    border-radius: 18px;
+    border:none;
+    background-color: #2D314D;
+    color: #fff;
+    text-transform: capitalize;
+    margin-right: 15px;
+    font-family: fonts;
+    font-size: 14px;
+}
+ .head{
+    display:flex;
+    justify-content:space-between;
+    padding-top: 20px;
+    padding-left: 5%;
+} 
+
+
+.next{
+    padding-right: 30px;
+    font-family: fonts;
+    font-size: 56px;
+}
+.invite{
+    padding:10px 20px;
+    border-radius: 18px;
+    border:none;
+    background-color: #2D314D;
+    color: #fff;
+    text-transform: capitalize;
+    font-family: fonts;
+    font-size: 14px;
+    
+}
+.header{
+    padding-left: 5%;
+    padding-top: 10%;
+}
+
+.life{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    font-family: my-fonts;
+    font-size: 18px;
+    color:#9597A5;
+}
+.txt{
+    display: flex;
+    justify-content: space-between;
+}
+.simple{
+    padding-left: 5%;
+    padding-bottom: 20px;
+   padding-top: 5%;
+   font-family: fonts;
+   font-size: 24px;
+   
+}
+.topic{
+    padding-right: 30px;
+    font-family:my-fonts;
+    font-size: 16px;
+    color:#9597A5;
+}
+.online-bank{
+    padding-top: 30px;
+}
+.body{
+    background-color:#F4F5F7;
+    width: 100%;
+    padding-bottom: 7%;
+    /* padding-top: 30px; */
+}
+.choose{
+    padding-bottom: 20px;
+    font-family: fonts;
+    font-size: 40px;
+
+}
+.open{
+    font-family: my-fonts;
+    font-size: 18px;
+    color:#9597A5;
+}
+.banks{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 5%;
+}
+.setting{
+    padding-bottom: 20px;
+    font-size: 50px;
+}
+.budget{
+    padding-bottom: 20px;
+}
+.latest{
+    padding-top: 4%;
+    padding-left:5% ;
+    padding-bottom: 30px;
+}
+.recieve{
+
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 30px;
+
+}
+.by{
+    font-family: my-fonts;
+    font-size: 10px;
+    color:#9597A5;
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.claire{
+    /* padding-right: 30px; */
+    font-family: my-fonts;
+    font-size: 13px;
+    color:#9597A5;
+    padding-left: 20px;
+padding-top: 10px;
+    width:207px;
+    height: 72px;
+    padding-bottom: 30px;
+
+}
+.fees{
+    
+
+    padding-bottom: 30px;
+    
+    font-family: fonts;
+    font-size: 16px;
+    width:207px;
+    height: 41px;
+    padding-left: 20px;
+   
+}
+.logoes{
+    padding-left: 5%;
+    padding-top: 30px;
+}
+.footer{
+    background-color: #2D314D;
+    width:100%;
+    padding-bottom: 30px;
+    
+}
+.info{
+    display: flex;
+    padding-top:40px;
+}
+.masg{
+    padding-right: 30px;
+    color:#F4F5F7;
+    font-family: my-fonts;
+    font-size: 15px;
+    
+}
+.btn{
+    padding:10px 30px;
+    border-radius: 18px;
+    border:none;
+    text-transform: capitalize;
+    background-color: #30C88F;
+    color:#F4F5F7;
+    font-family: fonts;
+    font-size: 14px;
+
+}
+.account{
+    padding-top: 30px;
+   
+}
+.gmail{
+    color:#9597A5;
+    padding-top: 20px;
+    font-family: my-fonts;
+    font-size: 15px;
+}
+.icons{
+    color: #F4F5F7;
+    padding-left: 5%;
+    padding-top: 30px;
+
+
+}
+.information{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+ 
+}
